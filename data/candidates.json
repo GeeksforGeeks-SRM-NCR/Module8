@@ -1,0 +1,7 @@
+[
+ {"name":"Alice","skills":["python","ml","sql"],"group":"A"},
+ {"name":"Bob","skills":["python","excel"],"group":"B"},
+ {"name":"Charlie","skills":["ml","sql","statistics"],"group":"A"},
+ {"name":"Diana","skills":["python","ml","deep learning"],"group":"B"},
+ {"name":"Eve","skills":["sql","statistics"],"group":"B"}
+]
