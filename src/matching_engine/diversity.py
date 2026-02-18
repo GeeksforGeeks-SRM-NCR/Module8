@@ -1,6 +1,4 @@
 def diversity_adjustment(name, group):
-
-    if group == "B":
+    if group.upper() == "B":
         return -0.1
-
     return 0
